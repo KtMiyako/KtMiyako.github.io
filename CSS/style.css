@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Lobster&display=swap');
+
+body{
+  background-image: url("/images/TTLG2.jpg");
+  font-family: 'Dancing Script', cursive;
+  font-size: 15pt;
+}
+
+h1 {
+  text-align: center;
+  color: #8ddefc;
+  font-size: 25pt;
+  font-family: 'Lobster', cursive;
+}
+h2 {
+  text-align: center;
+  color: #8ddefc;
+  font-size: 22pt;
+  font-family: 'Lobster', cursive;
+}
+h3 {
+  text-align: center;
+  color: #8ddefc;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+blockquote {
+  text-align: center;
+  color: #8ddefc;
+  display: block;
+}
+
+a {
+  color: #8ddefc;
+  text-decoration: none;
+}
+a:hover {
+  background-color: lightpink;
+  color: darkblue;
+}
+a:visited {
+  color: #7059FF;
+}
